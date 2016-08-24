@@ -1,0 +1,1 @@
+figure2_bcef.m is the main function to reproduces the results in Figure 2(b,c,e,f). When setting "model=1", it returns the results of Figure 2(b,e); while setting "model=2" returns the results of Figure 2(c,f).

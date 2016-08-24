@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ver7_yy.aux
+The style file: abbrv.bst
+Database file #1: sigproc.bib
+Repeated entry---line 1642 of file sigproc.bib
+ : @inproceedings{jamieson2011active
+ :                                  ,
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in MM09
+Warning--empty publisher in fu2014interestingness
+Warning--empty booktitle in mm16
+You've used 31 entries,
+            2118 wiz_defined-function locations,
+            676 strings with 8707 characters,
+and the built_in function-call counts, 11907 in all, are:
+= -- 1144
+> -- 579
+< -- 13
++ -- 232
+- -- 196
+* -- 799
+:= -- 1889
+add.period$ -- 96
+call.type$ -- 31
+change.case$ -- 188
+chr.to.int$ -- 0
+cite$ -- 34
+duplicate$ -- 480
+empty$ -- 922
+format.name$ -- 196
+if$ -- 2597
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 32
+newline$ -- 157
+num.names$ -- 62
+pop$ -- 223
+preamble$ -- 1
+purify$ -- 160
+quote$ -- 0
+skip$ -- 386
+stack$ -- 0
+substring$ -- 705
+swap$ -- 157
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 118
+warning$ -- 3
+while$ -- 95
+width$ -- 33
+write$ -- 335
+(There was 1 error message)
